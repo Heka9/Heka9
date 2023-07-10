@@ -1,6 +1,6 @@
 ### Hi there 👋:smile:
 
-***Welcome to my GitHub account! I am a passionate frontend developer with a strong focus on creating visually appealing and user-friendly web applications. Here, you will find a collection of my projects, showcasing my skills and expertise in HTML, CSS, and JavaScript.***
+***Welcome to my GitHub account! I am Yevhen, a passionate frontend developer with a strong focus on creating visually appealing and user-friendly web applications. Here, you will find a collection of my projects, showcasing my skills and expertise in HTML, CSS, and JavaScript.***
 
 _Through my GitHub repositories, you can explore my work, including responsive website designs, interactive interfaces, and innovative solutions. I strive to follow best practices to deliver exceptional user experiences._
 
