@@ -1,10 +1,10 @@
-### Hi there 👋👋👋
+### Hi there 👋:wink:
 
 ***Welcome to my GitHub account! I am a passionate frontend developer with a strong focus on creating visually appealing and user-friendly web applications. Here, you will find a collection of my projects, showcasing my skills and expertise in HTML, CSS, and JavaScript.***
 
 _Through my GitHub repositories, you can explore my work, including responsive website designs, interactive interfaces, and innovative solutions. I strive to follow best practices and use React to deliver exceptional user experiences._
 
-_Thank you for visiting my GitHub account. Let's connect and create remarkable web experiences together!_
+_Thank you for visiting my GitHub account. Let's connect and create remarkable web experiences together!_:computer::thumbsup:
 
 <!--
 **Heka9/Heka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
