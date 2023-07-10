@@ -1,4 +1,4 @@
-### Hi there 👋:wink:
+### Hi there 👋:smile:
 
 ***Welcome to my GitHub account! I am a passionate frontend developer with a strong focus on creating visually appealing and user-friendly web applications. Here, you will find a collection of my projects, showcasing my skills and expertise in HTML, CSS, and JavaScript.***
 
